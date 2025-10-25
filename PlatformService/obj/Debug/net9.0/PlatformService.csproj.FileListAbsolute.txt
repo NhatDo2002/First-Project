@@ -166,3 +166,4 @@ D:\Courses\Microservices\First-Project\PlatformService\obj\Debug\net9.0\refint\P
 D:\Courses\Microservices\First-Project\PlatformService\obj\Debug\net9.0\PlatformService.pdb
 D:\Courses\Microservices\First-Project\PlatformService\obj\Debug\net9.0\PlatformService.genruntimeconfig.cache
 D:\Courses\Microservices\First-Project\PlatformService\obj\Debug\net9.0\ref\PlatformService.dll
+D:\Courses\Microservices\First-Project\PlatformService\obj\Debug\net9.0\PlatformService.sourcelink.json
