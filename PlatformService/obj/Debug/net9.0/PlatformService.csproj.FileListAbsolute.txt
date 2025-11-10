@@ -168,3 +168,4 @@ D:\Courses\Microservices\First-Project\PlatformService\obj\Debug\net9.0\Platform
 D:\Courses\Microservices\First-Project\PlatformService\obj\Debug\net9.0\ref\PlatformService.dll
 D:\Courses\Microservices\First-Project\PlatformService\obj\Debug\net9.0\PlatformService.sourcelink.json
 D:\Courses\Microservices\First-Project\PlatformService\bin\Debug\net9.0\appsettings.Production.json
+D:\Courses\Microservices\First-Project\PlatformService\bin\Debug\net9.0\RabbitMQ.Client.dll

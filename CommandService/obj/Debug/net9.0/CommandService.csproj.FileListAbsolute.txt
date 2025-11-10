@@ -167,3 +167,5 @@ D:\Courses\Microservices\First-Project\CommandService\bin\Debug\net9.0\runtimes\
 D:\Courses\Microservices\First-Project\CommandService\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\Courses\Microservices\First-Project\CommandService\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\Courses\Microservices\First-Project\CommandService\obj\Debug\net9.0\CommandService.sourcelink.json
+D:\Courses\Microservices\First-Project\CommandService\bin\Debug\net9.0\appsettings.Production.json
+D:\Courses\Microservices\First-Project\CommandService\bin\Debug\net9.0\RabbitMQ.Client.dll
